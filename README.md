@@ -4,7 +4,7 @@
 
 - 🌱 I'm currently learning **IT (Honours) @ UTS**
 
-- 📫 How to reach me **muhammad.a.arrazy@student.uts.edu.au**
+- 📫 Email me anything: **muhammad.a.arrazy@student.uts.edu.au**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
