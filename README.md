@@ -1,10 +1,10 @@
 # Muhammad Alfatih Arrazy
 
-### Python DevOps/Data Engineer
+### Python Data Engineer
 
-- 🌱 I'm currently learning **IT (Honours) @ UTS**
+- 🌱 Information Technology Student @ University of Technology Sydney
 
-- 📫 Email me anything: **muhammad.a.arrazy@student.uts.edu.au**
+- 📫 Contact: **muhammad.a.arrazy@student.uts.edu.au**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
