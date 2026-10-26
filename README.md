@@ -1,7 +1,5 @@
 # Muhammad Alfatih Arrazy
 
-### Python Data Engineer
-
 - 🌱 Information Technology Student @ University of Technology Sydney
 
 - 📫 Contact: **muhammad.a.arrazy@student.uts.edu.au**
